@@ -1,4 +1,7 @@
+<head>
+<title>Example.com homepage</title>
 <meta name="google-site-verification" content="iWUi-iJlItv0K27Ssczc_LtqTj0DQKi_iDeWn1GXC4s" />
+</head>
 
 # movemin03
 ## Make works faster with Python Office Automation 😎
