@@ -1,4 +1,6 @@
-https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Office%20Automation%20Factory&textBg=false&section=header&reversal=false&fontAlign=50&fontSize=50&fontAlignY=50&fontColor=000000
+<div align="center">
+  <img src="[https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Office%20Automation%20Factory&textBg=false&section=header&reversal=false&fontAlign=50&fontSize=50&fontAlignY=50&fontColor=000000)" />
+</div>
 
 <head>
 <meta name="google-site-verification" content="iWUi-iJlItv0K27Ssczc_LtqTj0DQKi_iDeWn1GXC4s" />
