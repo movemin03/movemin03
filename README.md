@@ -1,4 +1,4 @@
-[![HEADER](https://capsule-render.vercel.app/api?type=venom&height=400&color=gradient&text=Office%20Automation%20Factory&fontColor=686868&fontSize=40&fontAlign=50&fontAlignY=80)
+![HEADER](https://capsule-render.vercel.app/api?type=venom&height=350&color=gradient&text=Office%20Automation%20Factory&fontColor=686868&fontSize=40&fontAlign=50&fontAlignY=80)
 
 <head>
 <meta name="google-site-verification" content="iWUi-iJlItv0K27Ssczc_LtqTj0DQKi_iDeWn1GXC4s" />
